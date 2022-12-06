@@ -1,0 +1,5 @@
+C:\windows
+C:\Program Files
+C:\Users
+C:\Windows\Temp
+C:\Windows\System32
