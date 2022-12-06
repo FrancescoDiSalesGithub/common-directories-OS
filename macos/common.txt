@@ -1,0 +1,4 @@
+/Applications
+/Library
+/Users
+/tmp
