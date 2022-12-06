@@ -1,0 +1,4 @@
+/data
+/system
+/cache
+/sdcard
